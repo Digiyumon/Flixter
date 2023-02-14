@@ -34,7 +34,7 @@ I attempted to add the rounded corners to the Glide Images however I was unable 
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 ---
 
-## Flix Part 1
+## Flixter Part 1
 
 ### User Stories
 
